@@ -11,7 +11,7 @@ This is a sample on how to use a custom view created using UIKit (Xib) for a vie
 
 # environment
 
-Xcode11.1 GM SEED  
+Xcode11 GM SEED  
 SwiftUI  
 Mac OS 10.14.6（18G103）  
 
