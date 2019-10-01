@@ -1,7 +1,7 @@
 # UISearchbar-from-SwiftUI-Sample
 
-This is a sample app created for SwiftUI practice.
-A custom view created with Xib is added to the view created with SwiftUI.
+This is a sample app created for SwiftUI practice.  
+This is a sample on how to use a custom view created using UIKit (Xib) for a view created with SwiftUI.
 
 # Gif
 
